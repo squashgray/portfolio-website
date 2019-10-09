@@ -1675,3 +1675,13 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+		.fab {
+			font-size: 5rem;
+			color: gold;
+		}
+
+		.skills p {
+			margin-top: 8%;
+			font-weight: bold;
+		}

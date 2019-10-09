@@ -1316,7 +1316,8 @@ input, select, textarea {
 			border-bottom-width: 1px;
 			max-width: 100%;
 			/* background-color:  #6d6363; */
-			background:  rgba(29, 44, 29, 0.6);
+			/* background:  rgba(29, 44, 29, 0.6); */
+			background: rgba(27, 31, 34, 0.85);
 		}
 
 			#header .content .inner {
@@ -1363,7 +1364,8 @@ input, select, textarea {
 				color: gold;
 				font-weight: bold;
 				/* background-color: #6d6363; */
-				background:  rgba(29, 44, 29, 0.6);
+				/* background:  rgba(29, 44, 29, 0.6); */
+				background: rgba(27, 31, 34, 0.85);
 				
 			}
 
@@ -1674,4 +1676,15 @@ input, select, textarea {
 
 		body.is-preload #footer {
 			opacity: 0;
+		}
+
+		.fab {
+			font-size: 4rem;
+			color: gold;
+		}
+
+		.skills p {
+			margin-top: 5%;
+			font-weight: bold;
+
 		}

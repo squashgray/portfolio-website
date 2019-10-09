@@ -6,7 +6,7 @@ You have the ability to write HTML, CSS, and responsive media queries.  You also
 
 ## Project Set Up
 
-### Follow these steps to set up and work on your project:
+### Follow these steps to set up and work on your project::
 
 _ Watch this walk through video:  https://youtu.be/P2Y9W29kcjs
 
